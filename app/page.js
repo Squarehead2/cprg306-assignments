@@ -6,6 +6,8 @@ export default function Home() {
     <main>
       <h1>CPRG 306: Web Development</h1>
       <Link href="/week2">/week2</Link>
+      <br />
+      <Link href="/week3">/week3</Link>
     </main>
   );
 }
